@@ -4,6 +4,7 @@ export function addToCartRequest(id) {
     id,
   };
 }
+
 export function addToCartSucess(product) {
   return {
     type: '@cart/ADD_SUCCESS',
