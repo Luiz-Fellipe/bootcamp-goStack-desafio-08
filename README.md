@@ -15,7 +15,7 @@
   <a href="#sobre-a-aplicação">Sobre a Aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#um-pouco-sobre-as-ferramentas">Ferramentas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#resultado">Resultado</a>
-</p>
+</p> 
 
 ## :rocket: Sobre o desafio
 
@@ -43,8 +43,8 @@ Aplicação web que foi desenvolvida durante as aulas do bootcamp para fixar meu
 ## Resultado:
 
 <img src=".github/home.png " alt="Kitten"
-	title="A cute kitten" width="650" height="650" />
+	title="A cute kitten" width="850" height="850" />
 <img src=".github/cart.png " alt="Kitten"
-	title="A cute kitten" width="650" height="650" />
+	title="A cute kitten" width="850" height="850" />
 
 
